@@ -1,0 +1,19 @@
+1. Extract any 5 table from the pdf attached.
+ Hint: You can use Python camelot ibrary for same. 
+After extracting Data clean so it can be used for analysis
+
+2. Scrape restaurant data from Zomato/ Societies in Delhi from Google Maps/ Datasets from data.gov.uk.
+ You need to share your code written in python.
+ In case you can scrape it using third party tools do mention the details and your approach while scrapping.
+ 
+3. There are 15,000 excel files with more than 100crore+ data points.
+ Data is related to various factors which include health, agriculture, demography etc.
+ Share a detailed approach on how you will store this data which is easily accesible to public for analysis.
+ 
+4. There is a excel file in zip. You need to convert it into nested json file as much as possible. 
+For ex- State is Uttarakhand then in single json we need to write State 
+everytime but in nested json we can save space. It can be done using python automation tools,
+
+In case of any doubt or consfusion feel free to ping me on Whatsapp +91-9650593455. 
+
+One week time should be fine to complete exercises. 

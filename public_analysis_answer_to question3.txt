@@ -1,0 +1,14 @@
+Answer to question 3:
+
+There are 15,000 excel files with more than 100crore+ data points.
+ Data is related to various factors which include health, agriculture, demography etc.
+ Share a detailed approach on how you will store this data which is easily accesible to public for analysis.
+
+first offs you can take all the csv files and convert them in sheets 
+or 
+use glob or dask to make the csv files into one big csv file
+
+then you can simply use any visualiztion code in python so that public can simple analyze it 
+like this : https://www.kaggle.com/shrishtihore/sucide-analysis-data-visualization-1985-2016
+
+If the data needs to be open to public use google sheets instead or better use the above method.

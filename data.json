@@ -1,0 +1,1081 @@
+[
+    {
+        "FrameName": "'0066",
+        "FrameID": "Dhandhuka",
+        "protocol": "'24",
+        "segments": [
+            {
+                "segmentID": "Mota Tradiya",
+                "segmentName": "0001",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "MOTA TRADIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511873",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Nana Tradiya",
+                "segmentName": "0002",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "NANA TRADIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511874",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Bajarda",
+                "segmentName": "0003",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BAJARDA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511875",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Zanzarka",
+                "segmentName": "0004",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "ZANZARKA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511876",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Sarwal",
+                "segmentName": "0005",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "SARWAL",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511877",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Adval",
+                "segmentName": "0006",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "ADVAL",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511878",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Fedra",
+                "segmentName": "0007",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "FEDRA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511879",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Dhanala",
+                "segmentName": "0008",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "DHANALA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511880",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kamiyala",
+                "segmentName": "0009",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KAMIYALA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511881",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    },
+                    {
+                        "packetID": "ANANDPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511882",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Buranpur",
+                "segmentName": "0011",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BURANPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511883",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Navagam",
+                "segmentName": "0012",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "NAVAGAM",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511884",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Pipli",
+                "segmentName": "0013",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PIPLI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511885",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Pachchham",
+                "segmentName": "0014",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PACHCHHAM",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511886",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    },
+                    {
+                        "packetID": "RATANPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511887",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Fattepur",
+                "segmentName": "0016",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "FATTEPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511888",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Khadol",
+                "segmentName": "0017",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KHADOL",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511889",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Haripura",
+                "segmentName": "0018",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "HARIPURA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511890",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Rayka",
+                "segmentName": "0019",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "RAYKA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511891",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Jaliya",
+                "segmentName": "0020",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "JALIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511892",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Chharodiya",
+                "segmentName": "0021",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "CHHARODIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511893",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Vasana",
+                "segmentName": "0022",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "VASANA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511894",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Chhasiyana",
+                "segmentName": "0023",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "CHHASIYANA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511895",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Galsana",
+                "segmentName": "0024",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "GALSANA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511896",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Vagad",
+                "segmentName": "0025",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "VAGAD",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511897",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Morasiya",
+                "segmentName": "0024",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "MORASIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511898",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Gunjar",
+                "segmentName": "0027",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "GUNJAR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511899",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kotda",
+                "segmentName": "0028",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KOTDA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511900",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Khasta",
+                "segmentName": "0029",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KHASTA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511901",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Gamph",
+                "segmentName": "0030",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "GAMPH",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511902",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Valinda",
+                "segmentName": "0031",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "VALINDA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511903",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kamatalav",
+                "segmentName": "0032",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KAMATALAV",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511904",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Ambli",
+                "segmentName": "0033",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "AMBLI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511905",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Shela",
+                "segmentName": "0034",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "SHELA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511906",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kasindra",
+                "segmentName": "0035",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KASINDRA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511907",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Umargadh",
+                "segmentName": "0036",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "UMARGADH",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511908",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Rojka",
+                "segmentName": "0037",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "ROJKA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511909",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kothadiya",
+                "segmentName": "0038",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KOTHADIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511910",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Padana",
+                "segmentName": "0039",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PADANA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511911",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Jaska",
+                "segmentName": "0040",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "JASKA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511912",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Aniyali Bhimji",
+                "segmentName": "0041",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "ANIYALI BHIMJI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511913",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Salasar",
+                "segmentName": "0042",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "SALASAR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511914",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Chandarva",
+                "segmentName": "0043",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "CHANDARVA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511915",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Unchdi",
+                "segmentName": "0044",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "UNCHDI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511916",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Pipal",
+                "segmentName": "0045",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PIPAL",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511917",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Tagadi",
+                "segmentName": "0046",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "TAGADI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511918",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Parabdi",
+                "segmentName": "0047",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PARABDI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511919",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Bhalgamda",
+                "segmentName": "0048",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BHALGAMDA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511920",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Zinzar",
+                "segmentName": "0049",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "ZINZAR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511921",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Akru",
+                "segmentName": "0050",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "AKRU",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511922",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kharad",
+                "segmentName": "0051",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KHARAD",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511923",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Cher",
+                "segmentName": "0052",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "CHER",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511924",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Gorasu",
+                "segmentName": "0053",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "GORASU",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511925",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Bhadiyad",
+                "segmentName": "0054",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BHADIYAD",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511926",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Kadipur",
+                "segmentName": "0055",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KADIPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511927",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Gogla",
+                "segmentName": "0056",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "GOGLA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511928",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Khun",
+                "segmentName": "0057",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "KHUN",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511929",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    },
+                    {
+                        "packetID": "BHIMTALAV",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511930",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Dholera",
+                "segmentName": "0059",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "DHOLERA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511931",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Otariya",
+                "segmentName": "0060",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "OTARIYA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511932",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Sandhida",
+                "segmentName": "0061",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "SANDHIDA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511933",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Mundi",
+                "segmentName": "0062",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "MUNDI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511934",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Rahtalav",
+                "segmentName": "0063",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "RAHTALAV",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511935",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Mahadevpura",
+                "segmentName": "0066",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "MAHADEVPURA",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511936",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Panchi",
+                "segmentName": "0065",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "PANCHI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511937",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Bhangadh",
+                "segmentName": "0066",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BHANGADH",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511938",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Mingalpur",
+                "segmentName": "0067",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "MINGALPUR",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511939",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    },
+                    {
+                        "packetID": "ZANKHI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511940",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            },
+            {
+                "segmentID": "Bavliyari",
+                "segmentName": "0069",
+                "srcPort": "GUJARAT",
+                "destPort": "'474",
+                "packets": [
+                    {
+                        "packetID": "BAVLIYARI",
+                        "Receivers": "2009",
+                        "destIP": "'03787",
+                        "destMAC": "'511941",
+                        "srcIP": "Ahmadabad",
+                        "srcMAC": "Dhandhuka"
+                    }
+                ]
+            }
+        ]
+    }
+]
